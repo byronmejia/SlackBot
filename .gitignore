@@ -1,0 +1,9 @@
+/.idea/
+/node_modules/
+/target/
+*~
+.DS_Store
+health.json
+keys.json
+src/config/keys/*.json
+npm-debug.log
